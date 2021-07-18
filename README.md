@@ -1,6 +1,9 @@
 ### Hi there, I'm Paulo Silva - aka [psilva1982][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<br />
+
 <img src="https://komarev.com/ghpvc/?username=psilva1982&color=1DA1F2&style=for-the-badge" width="180px"/>
+
 
 ## I'm a Full Stack Web Developer and Student!
 - 🔭 I’m currently working on a many Full Stack Projects!
@@ -8,6 +11,7 @@
 - 👯 I’m looking to collaborate with content creators.
 - 🥅 2021 Goals: Doing more technical projects and Contribution to Open Source.
 
+<br />
 
 ### Connect with me:
 
@@ -15,6 +19,7 @@
 [<img align="left" alt="vikalp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
+<br />
 <br />
 
 ### Languages and Tools:
