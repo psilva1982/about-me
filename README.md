@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=psilva1982&color=1DA1F2&style=for-the-badge" width="180px"/>
 
 
-## I'm a Full Stack Web Developer and Student!
+## I'm a Full Stack Web Developer and forever a student!
 - 🔭 I’m currently working on a many Full Stack Projects!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with content creators.
